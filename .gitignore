@@ -1,3 +1,5 @@
 corpora/
-etc/
+etc/arxiv.db
+etc/documentation.pdf
+etc/snapshot.json
 tmp/
