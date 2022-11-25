@@ -15,6 +15,7 @@ JSON2SQL='./bin/json2sql.py'
 TRANSACTION='./tmp/transaction.sql'
 
 # re-initialize
+mkdir -p ./tmp
 rm -rf $DB
 cat $SCHEMA | sqlite3 $DB
 

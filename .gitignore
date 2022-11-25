@@ -2,4 +2,4 @@ corpora/
 etc/arxiv.db
 etc/documentation.pdf
 etc/snapshot.json
-tmp/
+etc/snapshot.url
